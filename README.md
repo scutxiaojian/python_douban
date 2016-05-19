@@ -15,6 +15,6 @@ xlwt, 提供Excel相关的操作<br>
 
 douban_spider_main.py, 爬虫引擎，进行各项任务的调度<br>
 douban_url_manager.py, url管理器，管理已爬取和未爬取的url，提供添加url，获取url，查询是否还有未爬取的url等功能<br>
-douban_downloader.py, html下载器<br>
-douban_parser.py, html分析器，提取html中的数据和url<br>
-douban_outputer.py, html输出器，将提取的信息以一种较为友好的html,txt,xls形式保存
+douban_downloader.py,  html下载器<br>
+douban_parser.py,      html分析器，提取html中的数据和url<br>
+douban_outputer.py,    html输出器，将提取的信息以一种较为友好的html,txt,xls形式保存
